@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 'NAACL 2018 Student Research Workshop (logo needed)'
+name: 'NAACL 2018 Student Research Workshop'
 
 # Short bio or description (displayed in the header)
-description: 'in conjunction with NAACL HLT 2018 in ???'
+description: 'in conjunction with NAACL HLT 2018 in New Orleans, Louisiana'
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.aclweb.org/portal/sites/default/themes/acl_common/images/logo.png
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: update-me
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
