@@ -1,15 +1,11 @@
 About
 =====
-This is the website for ACL SRW 2018.
+This is the code for the [ACL SRW 2018](naacl2018-srw.github.io) website.
 
-You can locally test your changes with this code:
-
-```
-    jekyll serve
-```
+You can locally test your changes by running ``jekyll serve`` and then opening the page ``localhost:4000`` on your browser.
 
 
 Jekyll
 ======
-This site is built with Jekyll, and was created with Jekyll Now.
+The site is built with Jekyll. This repository was created with Jekyll Now.
 Check ``./JEKYLL_README.md`` for their README.
