@@ -9,7 +9,7 @@ name: 'NAACL 2018 Student Research Workshop'
 description: 'in conjunction with NAACL HLT 2018 in New Orleans, Louisiana'
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.aclweb.org/portal/sites/default/themes/acl_common/images/logo.png
+avatar: /images/naacl2018.png
 
 #
 # Flags below are optional
