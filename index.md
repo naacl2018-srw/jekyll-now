@@ -5,9 +5,6 @@ permalink: /
 ---
 
 
-
-
-<!-- ======== MAIN TEXT ================== -->
 The 2018 NAACL Student Research Workshop (SRW) will be held in conjunction with [NAACL HLT 2018](http://naacl2018.org) in New Orleans, Louisiana. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 Please see the [Call for Papers](cfp) to participate. To stay updated, follow us on [Twitter](http://update.me), or contact us via [Google Group](mailto:naacl2018-SRW@googlegroups.com). 
 
