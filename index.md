@@ -20,5 +20,9 @@ Please see the [Call for Papers](cfp) to participate. To stay updated, follow us
 #### Faculty Advisors
 * Swapna Somasundaran (ETS Princeton)
 
+#### Program Committee
+* (_To be announced_)
+
+
 The 2018 ACL Student Research Workshop adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you have any problem.
 
