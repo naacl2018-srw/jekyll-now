@@ -9,8 +9,6 @@ The 2018 NAACL Student Research Workshop (SRW) will be held in conjunction with 
 Please see the [Call for Papers](cfp) to participate. To stay updated, follow us on [Twitter](http://update.me), or contact us via [Google Group](mailto:naacl2018-SRW@googlegroups.com). 
 
 
-
-
 #### Student Chairs
 * Silvio Ricardo Cordeiro (Federal University of Rio Grande do Sul)
 * Shereen Oraby (University of California, Santa Cruz)
@@ -19,6 +17,7 @@ Please see the [Call for Papers](cfp) to participate. To stay updated, follow us
 
 #### Faculty Advisors
 * Swapna Somasundaran (ETS Princeton)
+* Sam Bowman (New York University)
 
 #### Program Committee
 * (_To be announced_)
