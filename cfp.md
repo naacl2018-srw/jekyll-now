@@ -12,7 +12,7 @@ We invite papers in two different categories:
 
 * Thesis Proposals: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 
-* Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate student.
+* Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
 
 Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](http://naacl2018.org/call_for_paper.html).
 
