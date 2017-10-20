@@ -41,7 +41,19 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 ## Submission Requirements
 
-All papers should follow the two-column format of the NAACL HLT 2018 proceedings (available [here](http://naacl.org/naacl-pubs/)). All papers will have a maximum limit of 6 pages for content, with unlimited additional pages for references. Papers which do not conform to these specifications will be rejected without review. Submissions must conform to [the specifications](http://naacl2018.org/call_for_paper.html) of NAACL HLT 2018 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
+**UPDATE** ACL has recently adopted new policies including very specific requirements for anonymizing submissions regarding posting preprints to online, such as arXiv or blogs. Here is the relevant section. But we encourage authors to consult to [the new policies](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation) before submitting papers. 
+
+> ACL conferences and TACL require that submissions be anonymized. A submission will not be considered anonymized if the authors post (or update) a non-anonymized preprint version within an anonymity period lasting from 1 month before the submission deadline until the time of notification (or withdrawal). Submissions will be rejected if not properly anonymized.
+> 
+> * Anonymized preprints within the anonymity period are allowed. This is currently only possible on certain platforms but ACL may consider using such a platform for all submissions in the future.
+> * Non-anonymized preprints before the anonymity period are allowed, although we encourage authors to wait to post them until after the anonymity period.
+> * If a non-anonymized preprint version exists, authors must declare its existence at submission time but should not cite it and are asked not to publicize it further during the anonymity period – the submitted paper should be as anonymous as possible.
+> 
+> The notion of preprint is understood broadly to refer to any non-refereed paper posted online, including but not limited to preprint servers such as arXiv. Note that the rule applies only to preprints that authors post themselves, so it does not apply to (say) non-refereed proceedings volumes. The restriction on updating is to prevent authors from circumventing these rules by "flag planting" with a placeholder version over 1 month in advance.
+
+___
+
+All papers should follow the two-column format of the NAACL HLT 2018 proceedings (available [here](http://naacl.org/naacl-pubs/)). All papers will have a maximum limit of **6 pages** for content, with unlimited additional pages for references. Papers which do not conform to these specifications will be rejected without review. Submissions must conform to [the specifications](http://naacl2018.org/call_for_paper.html) of NAACL HLT 2018 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
 
 Use the Softconf link below for submission: [https://www.softconf.com/naacl2018/naacl2018-SRW](https://www.softconf.com/naacl2018/naacl2018-SRW)
 
