@@ -26,6 +26,11 @@ And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any ques
 #### Program Committee
 * (_To be announced_)
 
+### Acknowledgments
+
+The 2018 NAACL Student Research Workshop is supported by:
+* The Computing Research Association’s [Computing Community Consortium (CCC)](https://cra.org/ccc/)
+
 
 The 2018 NAACL Student Research Workshop adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you have any problem.
 
