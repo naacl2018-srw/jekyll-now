@@ -38,17 +38,22 @@
 
     <div id="main" role="main" class="container">
       <style>
-#date-table-wrapper {
+#side-table-wrapper {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 10px;
   background-color: #fff;
   margin-left: 16px;
 }
-#important-dates-header {
+#side-table-header {
   margin-top: 6px;
   margin-bottom: 2px;
   text-align: center;
+}
+#sponsors {
+  display: block;
+  margin: auto;
+  max-width: 120px;
 }
       </style>
 
@@ -57,13 +62,12 @@
       {% capture sub %}{{'Mar 2 2018' | date: '%s'}}{% endcapture %}
       {% capture not %}{{'Apr 2 2018' | date: '%s'}}{% endcapture %}
       {% capture cam %}{{'Apr 16 2018' | date: '%s'}}{% endcapture %}
-      <div id="date-table-wrapper" style="float:right; width:350px; font-size: small">
-        <h4 id="important-dates-header">Important Dates</h4>
+      <div id="side-table-wrapper" style="float:right; width:290px; font-size: small">
+        <h4 id="side-table-header">Important Dates</h4>
         <br>
         <table id="important-dates" class="table table-condensed">
           <tbody>
             <tr><td>Pre-submission mentorship application</td>
-              <!-- <td>{{ January 15 (Mon), 2018 | date_to_rfc822 }}</td> -->
               <td>
                 {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
@@ -98,8 +102,21 @@
             <tr><td>Workshop</td>
               <td>June 2-4, 2018</td>
             </tr>
+            <tr>
+              <p align="center"><small>* <em>All deadlines are <mark>11:59PM Pacific Standard Time (GMT-8)</mark> (anywhere in the world).</em></small></p>
+            </tr>
           </tbody></table>
-          <p><small>* <em>All deadlines are <mark>11:59PM Pacific Standard Time (GMT-8)</mark> (anywhere in the world).</em></small></p>
+        <h4 id="side-table-header">SRW is sponsored by</h4>
+        <br>
+        <table id="sponsors" class="table table-condensed">
+          <tbody>
+            <tr><td>
+              <a href="https://cra.org/ccc/" target="blank">
+                <img src="{{ site.baseurl }}/images/ccc_vt.png" alt="Computing Community Consortium">
+              </a>
+            </td></tr>
+          </tbody>
+        </table>
       </div>
       <!-- ===================================== -->
 
