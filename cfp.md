@@ -59,7 +59,7 @@ Use the Softconf link below for submission: [https://www.softconf.com/naacl2018/
 
 ## Grants
 
-We expect to have grants to offset some portion of the students' conference registration, travel and accommodation expenses. Further details [will be posted](../grant) in the SRW website.
+We expect to have grants to offset some portion of the students' conference registration, travel and accommodation expenses. Further details [will be posted](../travel-and-grants) in the SRW website.
 
 ## Contact Information
 
