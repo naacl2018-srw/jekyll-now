@@ -53,9 +53,29 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 ___
 
-All papers should follow the two-column format of the NAACL HLT 2018 proceedings (available [here](http://naacl.org/naacl-pubs/)). All papers will have a maximum limit of **6 pages** for content, with unlimited additional pages for references. Papers which do not conform to these specifications will be rejected without review. Submissions must conform to [the specifications](http://naacl2018.org/call_for_paper.html) of NAACL HLT 2018 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
+All papers should follow the two-column format of the NAACL HLT 2018 proceedings (see below). All papers will have a maximum limit of **6 pages** for content, with unlimited additional pages for references. Papers which do not conform to these specifications will be rejected without review. Submissions must conform to [the specifications](http://naacl2018.org/call_for_paper.html) of NAACL HLT 2018 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
 
 Use the Softconf link below for submission: [https://www.softconf.com/naacl2018/naacl2018-SRW](https://www.softconf.com/naacl2018/naacl2018-SRW)
+
+### Style and Format 
+
+We strongly recommend the use of the official NAACL HLT 2018 style templates:
+
+* [LaTeX](http://naacl2018.org/downloads/naaclhlt2018-latex.zip)
+* [Microsoft Word](http://naacl2018.org/downloads/naaclhlt2018-word.zip)
+* [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-NAACL%20HLT-2018-proceedings/mbgbzpzxdkth)
+
+All submissions must in PDF format.
+
+### Facilitate double blind review
+
+Double blind review is a form of peer review in which the identities of authors are not provided to reviewers, and the identities of reviewers are not provided to authors. To facilitate double blind review, submissions should not identify authors or their affiliations. For example, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...".
+
+Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper. NAACL HLT 2018 reviewers are generally aware that authors may present preliminary versions of their work in other venues, but will not be provided the list of previous presentations from the submission form.
+
+Authors are referred to the ACL author guidelines for additional information on how to facilitate double blind review.
+
+**Submissions that do not adhere to the above author guidelines may be rejected without review.**
 
 ## Grants
 
