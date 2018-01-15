@@ -29,7 +29,7 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 ## Important Dates
 
-* Submission for mentoring deadline: January 15, 2018
+* Submission for mentoring deadline: --January 15-- January 22, 2018
 
 * Papers submission deadline: March 02, 2018
 
