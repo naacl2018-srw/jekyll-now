@@ -59,7 +59,7 @@ Use the Softconf link below for submission: [https://www.softconf.com/naacl2018/
 
 ### Style and Format 
 
-We strongly recommend the use of the official NAACL HLT 2018 style templates:
+Submissions should follow the NAACL HLT 2018 style guidelines:
 
 * [LaTeX](http://naacl2018.org/downloads/naaclhlt2018-latex.zip)
 * [Microsoft Word](http://naacl2018.org/downloads/naaclhlt2018-word.zip)
@@ -73,7 +73,7 @@ Double blind review is a form of peer review in which the identities of authors 
 
 Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper. NAACL HLT 2018 reviewers are generally aware that authors may present preliminary versions of their work in other venues, but will not be provided the list of previous presentations from the submission form.
 
-Authors are referred to the ACL author guidelines for additional information on how to facilitate double blind review.
+Authors are referred to the ACL [author guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines) for additional information on how to facilitate double blind review.
 
 **Submissions that do not adhere to the above author guidelines may be rejected without review.**
 
