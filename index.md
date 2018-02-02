@@ -24,7 +24,81 @@ And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any ques
 * Sam Bowman (New York University)
 
 #### Program Committee
-* (_To be announced_)
+
+* Ambati, Bharat Ram
+* Bawden, Rachel
+* Berzak, Yevgeni
+* Bisk, Yonatan
+* Card, Dallas
+* Che, Wanxiang
+* Choudhury, Monojit
+* Diab, Mona
+* Dodge, Jesse
+* Dorr, Bonnie
+* Elgohary, Ahmed
+* Elsner, Micha
+* Farra, Noura
+* Francois, Thomas
+* Fried, Daniel
+* Ghosh, Debanjan
+* Gimpel, Kevin
+* Grishman, Ralph
+* Grissom II, Alvin
+* Guo, Jiang
+* He, Luheng
+* Hessel, Jack
+* Hovy, Dirk
+* Iyyer, Mohit
+* Jernite, Yacine
+* Ji, Yangfeng
+* Jokinen, Kristiina
+* Kawahara, Daisuke
+* Kedzie, Chris
+* Koehn, Philipp
+* Kummerfeld, Jonathan K.
+* Köper, Maximilian
+* Laporte, Eric
+* Levitan, Sarah Ita
+* Liew, Jasy Suet Yan
+* Litman, Diane
+* Malmasi, Shervin
+* Marcheggiani, Diego
+* Marcu, Daniel
+* Marcus, Mitchell
+* Mathur, Prashant
+* McKeown, Kathy
+* Medero, Julie
+* Mohammad, Saif
+* Moon, Taesun
+* Muresan, Smaranda
+* Narasimhan, Karthik
+* Narayan, Shashi
+* Neubig, Graham
+* PVS, Avinesh
+* Parmentier, Yannick
+* Penn, Gerald
+* Poesio, Massimo
+* Potts, Christopher
+* Preoţiuc-Pietro, Daniel
+* Prud'hommeaux, Emily
+* Rao, Sudha
+* Rasooli, Mohammad Sadegh
+* Roth, Michael
+* Saers, Markus
+* Schlangen, David
+* Seo, Minjoon
+* Sitaram, Sunayana
+* Small, Kevin
+* Suhr, Alane
+* Upadhyay, Shyam
+* Vajjala, Sowmya
+* Webber, Bonnie
+* Wieting, John
+* Williams, Adina
+* Yang, Diyi
+* Zhang, Justine
+* Zhang, Meishan
+* Zhao, Ran
 
 #### Acknowledgments
 
