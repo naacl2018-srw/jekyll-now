@@ -61,6 +61,7 @@ And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any ques
 * Levitan, Sarah Ita
 * Liew, Jasy Suet Yan
 * Litman, Diane
+* Lukin, Stephanie
 * Malmasi, Shervin
 * Marcheggiani, Diego
 * Marcu, Daniel
@@ -68,6 +69,7 @@ And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any ques
 * Mathur, Prashant
 * McKeown, Kathy
 * Medero, Julie
+* Misra, Amita
 * Mohammad, Saif
 * Moon, Taesun
 * Muresan, Smaranda
