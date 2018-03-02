@@ -57,7 +57,7 @@
 }
       </style>
 
-      {% capture nowdate %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
       {% capture presubmen %}{{'Jan 22 2018' | date: '%s'}}{% endcapture %}
       {% capture sub %}{{'Mar 2 2018' | date: '%s'}}{% endcapture %}
       {% capture not %}{{'Apr 2 2018' | date: '%s'}}{% endcapture %}
@@ -71,7 +71,7 @@
               <td>
                 {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
-                {% if datediff < 30 and datediff > 0 %} <font color="red"> {% endif %}
+                {% if datediff < 30 and datediff > -1 %} <font color="red"> {% endif %}
                 {{ presubmen | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
@@ -79,7 +79,7 @@
               <td>
                 {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > 0 %} <font color="red"> {% endif %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ sub | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
@@ -87,7 +87,7 @@
               <td>
                 {% if not < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = not | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > 0 %} <font color="red"> {% endif %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ not | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
@@ -95,7 +95,7 @@
               <td>
                 {% if cam < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 13  and datediff > 0 %} <font color="red"> {% endif %}
+                {% if datediff < 13  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ cam | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
