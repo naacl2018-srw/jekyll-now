@@ -10,11 +10,11 @@ The SRW gives student researchers in Computational Linguistics and Natural Langu
 Please see the [Call for Papers](cfp) to participate. Stay tuned by following us on [Facebook](https://www.facebook.com/NACCL2018SRW/), [Twitter](http://update.me). 
 *We encourage* authors to consult to [the new policies](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation) that the ACL Executive Committee has recently adopted before submitting papers. 
 
-And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any questions. 
+And contact us via [e-mail](mailto:naacl2018-SRW@googlegroups.com) for any questions. 
 
 
 #### Student Chairs
-* Silvio Ricardo Cordeiro (Federal University of Rio Grande do Sul)
+* Silvio Ricardo Cordeiro (Aix-Marseille Université)
 * Shereen Oraby (University of California, Santa Cruz)
 * Umashanthi Pavalanathan (Georgia Institute of Technology)
 * Kyeongmin Rim (Brandeis University)
