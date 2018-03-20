@@ -27,7 +27,6 @@ And contact us via [e-mails](mailto:naacl2018-SRW@googlegroups.com) for any ques
 
 * Ambati, Bharat Ram
 * Bawden, Rachel
-* Berzak, Yevgeni
 * Bisk, Yonatan
 * Card, Dallas
 * Che, Wanxiang
@@ -111,3 +110,6 @@ The 2018 NAACL Student Research Workshop is supported by:
 
 The 2018 NAACL Student Research Workshop adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you have any problem.
 
+
+#### Onsite childcare
+The 2018 NAACL offers onsite childcare at a reduced price to student attendees! See the [blog post](https://naacl2018.wordpress.com/2018/01/19/onsite-childcare/) for more details. 
