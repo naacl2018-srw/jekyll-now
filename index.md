@@ -88,8 +88,9 @@ And contact us via [e-mail](mailto:naacl2018-SRW@googlegroups.com) for any quest
 * Saers, Markus
 * Schlangen, David
 * Seo, Minjoon
-* Sitaram, Sunayana
 * Small, Kevin
+* Soni, Sandeep
+* Stewart, Ian
 * Suhr, Alane
 * Upadhyay, Shyam
 * Vajjala, Sowmya
