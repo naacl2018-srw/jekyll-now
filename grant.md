@@ -18,7 +18,7 @@ The NAACL 2018 offers onsite childcare at a reduced price to student attendees! 
 We strongly encourage all the student participants of SRW2018 to apply for the [student volunteer program](http://naacl2018.org/volunteer.html). Free registration is available for selected student volunteer.
 
 #### Grants 
-Thanks to the support from [the Computing Community Consortium (CCC)](https://cra.org/ccc/), there will be some funds available to support participants for travel, registration, and accommodation. 
+Thanks to the support from [the Computing Community Consortium (CCC)](https://cra.org/ccc/) and [National Science Foundation (NSF)](https://www.nsf.gov/), there will be some funds available to support participants for travel, registration, and accommodation. 
 
 Accepted participants will be contacted by workshop organizers soon regarding more details. 
 
