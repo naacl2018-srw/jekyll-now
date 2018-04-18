@@ -25,82 +25,84 @@ And contact us via [e-mail](mailto:naacl2018-SRW@googlegroups.com) for any quest
 
 #### Program Committee
 
-* Ambati, Bharat Ram
-* Bawden, Rachel
-* Bisk, Yonatan
-* Card, Dallas
-* Che, Wanxiang
-* Choudhury, Monojit
-* Diab, Mona
-* Dodge, Jesse
-* Dorr, Bonnie
-* Elgohary, Ahmed
-* Elsner, Micha
-* Farra, Noura
-* Francois, Thomas
-* Fried, Daniel
-* Ghosh, Debanjan
-* Gimpel, Kevin
-* Grishman, Ralph
-* Grissom II, Alvin
-* Guo, Jiang
-* He, Luheng
-* Hessel, Jack
-* Hovy, Dirk
-* Iyyer, Mohit
-* Jernite, Yacine
-* Ji, Yangfeng
-* Jokinen, Kristiina
-* Kawahara, Daisuke
-* Kedzie, Chris
-* Koehn, Philipp
-* Kummerfeld, Jonathan K.
-* Köper, Maximilian
-* Laporte, Eric
-* Levitan, Sarah Ita
-* Liew, Jasy Suet Yan
-* Litman, Diane
-* Lukin, Stephanie
-* Malmasi, Shervin
-* Marcheggiani, Diego
-* Marcu, Daniel
-* Marcus, Mitchell
-* Mathur, Prashant
-* McKeown, Kathy
-* Medero, Julie
-* Misra, Amita
-* Mohammad, Saif
-* Moon, Taesun
-* Muresan, Smaranda
-* Narasimhan, Karthik
-* Narayan, Shashi
-* Neubig, Graham
-* PVS, Avinesh
-* Parmentier, Yannick
-* Penn, Gerald
-* Poesio, Massimo
-* Potts, Christopher
-* Preoţiuc-Pietro, Daniel
-* Prud'hommeaux, Emily
-* Rao, Sudha
-* Rasooli, Mohammad Sadegh
-* Roth, Michael
-* Saers, Markus
-* Schlangen, David
-* Seo, Minjoon
-* Small, Kevin
-* Soni, Sandeep
-* Stewart, Ian
-* Suhr, Alane
-* Upadhyay, Shyam
-* Vajjala, Sowmya
-* Webber, Bonnie
-* Wieting, John
-* Williams, Adina
-* Yang, Diyi
-* Zhang, Justine
-* Zhang, Meishan
-* Zhao, Ran
+* Ambati, Bharat Ram (Apple Inc.)
+* Bawden, Rachel (LIMSI, CNRS, Univ. Paris-Sud, Université Paris-Saclay)
+* Bisk, Yonatan (University of Washington)
+* Card, Dallas (Carnegie Mellon University)
+* Che, Wanxiang (Harbin Institute of Technology)
+* Choudhury, Monojit (Microsoft Research)
+* Diab, Mona (GWU)
+* Dodge, Jesse (Carnegie Mellon University)
+* Dorr, Bonnie (Florida Institute for Human-Machine Cognition)
+* Elgohary, Ahmed (University of Maryland, College Park)
+* Elsner, Micha (The Ohio State University)
+* Farra, Noura (Columbia University, Department of Computer Science)
+* Francois, Thomas (Université catholique de Louvain)
+* Fried, Daniel (UC Berkeley)
+* Ghosh, Debanjan (Rutgers University)
+* Gimpel, Kevin (Toyota Technological Institute at Chicago)
+* Grishman, Ralph (New York University)
+* II, Alvin Grissom (Ursinus College)
+* Guo, Jiang (Massachusetts Institute of Technology)
+* He, Luheng (University of Washington)
+* Hessel, Jack (cornell.edu)
+* Hovy, Dirk (Bocconi University)
+* Iyyer, Mohit (University of Maryland, College Park)
+* Jernite, Yacine (New York University)
+* Ji, Yangfeng (CSE, University of Washington)
+* Jokinen, Kristiina (AIRC, AIST)
+* Kawahara, Daisuke (Kyoto University)
+* Kedzie, Chris (Columbia University)
+* Koehn, Philipp (Johns Hopkins University)
+* Kummerfeld, Jonathan K. (University of Michigan)
+* Köper, Maximilian (University of Stuttgart)
+* Laporte, Eric (Université Paris-Est Marne-la-Vallée)
+* Levitan, Sarah Ita (Columbia University)
+* Liew, Jasy Suet Yan (School of Information Studies, Syracuse University)
+* Litman, Diane (University of Pittsburgh)
+* Lukin, Stephanie (US Army Research Laboratory)
+* Malmasi, Shervin (Harvard Medical School)
+* Marcheggiani, Diego (University of Amsterdam)
+* Marcu, Daniel (ISI/USC)
+* Marcus, Mitchell (University of Pennsylvania)
+* Mathur, Prashant (eBay)
+* McKeown, Kathy (Columbia University)
+* Medero, Julie (Harvey Mudd College)
+* Misra, Amita (university of california,santa cruz)
+* Mohammad, Saif (NRC)
+* Moon, Taesun (IBM Research)
+* Muresan, Smaranda (Columbia University)
+* Narasimhan, Karthik (CSAIL, MIT)
+* Narayan, Shashi (University of Edinburgh)
+* Neubig, Graham (Carnegie Mellon University)
+* PVS, Avinesh (UKP Lab, Technische Universität Darmstadt)
+* Parmentier, Yannick (University of Lorraine)
+* Penn, Gerald (University of Toronto)
+* Poesio, Massimo (Queen Mary University of London)
+* Potts, Christopher (Stanford University)
+* Preoţiuc-Pietro, Daniel (University of Pennsylvania)
+* Prud'hommeaux, Emily (Boston College)
+* Rao, Sudha (University Of Maryland, College Park)
+* Rasooli, Mohammad Sadegh (Columbia University)
+* Roth, Michael (Saarland University)
+* Saers, Markus (Hong Kong University of Science and Technology)
+* Schlangen, David (Bielefeld University)
+* Seo, Minjoon (University of Washington)
+* Small, Kevin (Amazon)
+* Soni, Sandeep (Georgia Institute of Technology)
+* Stewart, Ian (Georgia Institute of Technology)
+* Suhr, Alane (Cornell University)
+* Upadhyay, Shyam (University of Pennsylvania)
+* Vajjala, Sowmya (Iowa State University)
+* Webber, Bonnie (University of Edinburgh)
+* Wieting, John (University of Illinois; TTI-Chicago; CMU)
+* Williams, Adina (New York University)
+* Yang, Diyi (Carnegie Mellon University)
+* Zhang, Justine (Cornell University)
+* Zhang, Meishan (Heilongjiang University)
+* Zhao, Ran (Carnegie Mellon University)
+
+
 
 #### Acknowledgments
 
