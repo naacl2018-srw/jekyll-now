@@ -4,6 +4,7 @@ title: Accepted Papers
 permalink: /accepted-papers/
 ---
 
+* To see presentation schedule at the conference, please visit [the main conference website](http://naacl2018.org/program.html) (search for "srw" in the page).
 
 
 ### **Igbo Diacritic Restoration using Embedding Models**
